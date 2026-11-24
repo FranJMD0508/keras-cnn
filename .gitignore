@@ -1,0 +1,20 @@
+# Dataset (786 MB) — se descarga dentro del notebook
+PetImages/
+kagglecatsanddogs_*.zip
+CDLA-Permissive-2.0.pdf
+readme*.txt
+
+# Checkpoints del modelo
+*.keras
+*.h5
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
